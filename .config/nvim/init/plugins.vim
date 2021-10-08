@@ -24,3 +24,4 @@ source ~/.config/nvim/init/plugins/lsp.lua
 source ~/.config/nvim/init/plugins/completion.vim
 source ~/.config/nvim/init/plugins/fzf.vim
 source ~/.config/nvim/init/plugins/py_coverage.vim
+source ~/.config/nvim/init/plugins/ropevim.vim
